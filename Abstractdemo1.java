@@ -1,0 +1,18 @@
+ abstrcat class Base
+{
+    public int i,j;
+   public int Adddition(int a, int b)
+   {
+      return a + b;   }
+    abstrcat public int Substraction(int a, int b);
+}
+
+
+class Abstractdemo1
+{
+    public static void main(String A[])
+    {
+
+        Base bp = new casting();
+    }
+}
